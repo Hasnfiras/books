@@ -1,24 +1,16 @@
 {
 "data": [
 {
-"id": "100",
-"name": "Test Book",
-"author": "Hassan Firas",
-"rating": "5.0",
-"price": "$ 744",
-"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
-"description": "Test Description",
-"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
-},
-{
 "id": "101",
-"name": "P.S. I love you",
-"author": "Cecelia Ahem",
-"rating": "4.0",
+"name": "The Everyday Life of an Algorthim",
+"author": "Daniel Neyland",
+"rating": "9.0",
 "price": "$ 299",
-"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
-"description": "",
-"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
+"image": "https://ibb.co/1zxYVRs",
+"description": "This chapter introduces the recent academic literature on
+algorithms and some of the popular concerns that have been expressed
+about algorithms in mainstream media",
+"url":"https://drive.google.com/file/d/1LtNvfuDIxpvedYa9Kfvnl9ECZWZOas3i/view?usp=sharing"
 },
 {
 "id": "102",
