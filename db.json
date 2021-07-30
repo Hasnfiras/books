@@ -14,92 +14,112 @@
 "id": "102",
 "name": "Flutter",
 "author": "Eng . Faisal Al aswad",
-"rating": "7",
-"price": "Library 4,shelf 4,no 7",
+"rating": "3.9",
+"price": "$ 399",
 "image": "https://images-na.ssl-images-amazon.com/images/I/51YQZtSgfBL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
 "description": "its about flutter , how to build mobile application with modern programming language ",
 "url":"https://drive.google.com/file/d/1dZmvVV5Rkc2YXfUCGv9JYnwDjUq0JNo7/view?usp=sharing.pdf"
+
+    
+        
+          
+    
+
+        
+    
+    @@ -25,10 +25,10 @@
+  
 },
 {
 "id": "103",
 "name": "Computer Networking : Principles and Protocols",
 "author": "Olivier Bonaventure",
 "rating": "8.1",
-"image": "https://images-na.ssl-images-amazon.com/images/I/515sQGFWquL._SX373_BO1,204,203,200_.jpg",
-"price": "Library 4,shelf 4,no 9",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
+"price": "",
 
-"description": "This open textbook aims to fill the gap between the opensource implementations and the opensource network specifications by providing a detailed but pedagogical description of the key principles that guide the operation of the Internet. 1 Preface 2 Introduction 3 The application Layer 4 The transport layer 5 The network layer 6 The datalink layer and the Local",
+"description": "",
 "url":"https://up4net.com/download320034.html"
 },
 {
 "id": "104",
-"name": "Discrete Mathematics",
-"author": "Oscar Levin",
-"rating": "5.4",
-"price": "Library 4,shelf 7,no 5",
-"image": "https://images-na.ssl-images-amazon.com/images/I/41M+q-1ZlZL._SX348_BO1,204,203,200_.jpg",
-"description": "Four main topics are covered: counting, sequences, logic, and graph theory. Along the way proofs are introduced, including proofs by contradiction, proofs by induction, and combinatorial proofs. The book contains over 470 exercises, including 275 with solutions and over 100 with hints. There are also Investigate! activities throughout the text to support active, inquiry based learning.While there are many fine discrete math textbooks available, this text has the following advantages:It is written to be used in an inquiry rich course.It is written to be used in a course for future math teachers.It is open source, with low cost print editions and free electronic editions.",
-"url":"https://drive.google.com/file/d/17WQeIVmWS3X3XyY6tQpqhAwxLbZEOip2/view?usp=sharing"
+"name": "Madame Bovary\r\n",
+"author": "Gustave Flaubert",
+"rating": "3.6",
+"price": "$ 249",
+"image": "up4net.com/uploads4/up4net.com162718664630381.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
 "id": "105",
-"name": "Introduction to Computer Graphics",
-"author": "Fabio Ganovelli",
+"name": "War and Peace",
+"author": "Leo Tolstoy",
 "rating": "4.2",
-"price": "Library 4,shelf 2,no 2",
-"image": "https://images-na.ssl-images-amazon.com/images/I/51e1bhIBi-L._SX328_BO1,204,203,200_.jpg",
-"description": "Introduction to Computer Graphics: A Practical Learning Approach guides students in developing their own interactive graphics application. The authors show step by step how to implement computer graphics concepts and theory using the EnvyMyCar (NVMC) framework as a consistent example throughout the text. They use the WebGL graphics API to develop NVMC, a simple, interactive car racing game.",
-"url":"https://drive.google.com/file/d/1yiEDig4WbLQBKcmhi5Idm_1NjtA_vty-/view?usp=sharing"
+"price": "$ 249",
+"image": "https://up4net.com/uploads4/up4net.com162718664630381.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
+
+    
+          
+            
+    
+
+          
+    
+    
+  
 "id": "106",
-"name": "Math for Programmers: 3D graphics, machine learning, and simulations with Python 1st Edition",
-"author": "Paul Orland",
+"name": "Lolita",
+"author": "Vladimir Nabokov",
 "rating": "3.8",
-"price": "Library 4,shelf 8,no 8",
-"image": "https://images-na.ssl-images-amazon.com/images/I/41pr0p9CPiL._SX258_BO1,204,203,200_.jpg",
-"description": "Math for Programmers teaches the math you need for these hot careers, concentrating on what you need to know as a developer.Filled with lots of helpful graphics and more than 300 exercises and mini-projects, this book unlocks the door to interesting-and lucrative!-careers in some of today's hottest programming fields.Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
-"url":"https://drive.google.com/file/d/1qxHsGn6KoUE7u7xDjeVuJTe8LeE6dXKa/view?usp=sharing"
+"price": "$ 349",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
 "id": "107",
-"name": "Mathematics for Computer Science",
-"author": " Eric Lehman",
-"rating": "10",
-"price": "Library 4,shelf 8,no 9",
-"image": "https://images-na.ssl-images-amazon.com/images/I/319awEQ5rQL._SX384_BO1,204,203,200_.jpg",
-"description": "This book covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; integer congruences; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics may also be covered, such as recursive definition and structural induction; state machines and invariants; recurrences; generating functions.",
-"url":"https://drive.google.com/file/d/116JJFIVpC3DDwvA2MUkTAMPdy2b0hqdx/view?usp=sharing"
+"name": "Middlemarch",
+"author": "George Eliot",
+"rating": "3.9",
+"price": "$ 499",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
 "id": "108",
-"name": "C++ from scratch to object programming",
-"author": "Dr Nidhal alkhudairy",
-"rating": "6.5",
-"price": "Library 4,shelf 3,no 14",
-"image": "https://www.nourbook.com/publice/covers_cache_webp/4/a/4/c/40e8260f03a4cc8ec193bbd597688a60.png.webp",
-"description": "The book contains a detailed explanation of the C++ language in a simplified manner. It includes twelve chapters starting from teaching programming and moving to entity programming.. The book contains many solved examples that help to understand the material easily.. The book can be an important and easy resource for students. The book is written in a simple and understandable language, free of complexity and in a professional manner.. This book is an addition to the Arabic library, which lacks scientific books written in Arabic, as it was written by a specialist in teaching programming languages",
-"url":"https://drive.google.com/file/d/116JJFIVpC3DDwvA2MUkTAMPdy2b0hqdx/view?usp=sharing"
+"name": "The Adventures of Huckleberry Finn",
+"author": "Mark Twain",
+"rating": "3.8",
+"price": "$ 199",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
 "id": "109",
-"name": "Neural Networks and Learning Machines ",
-"author": "Simon Haykin",
-"rating": "7.7",
-"price": "Library 4,shelf 7,no 9",
-"image": "https://images-na.ssl-images-amazon.com/images/I/518n0VeVBNL._SX376_BO1,204,203,200_.jpg",
-"description": "Neural Networks and Learning Machines, Third Edition is renowned for its thoroughness and readability. This well-organized and completely up-to-date text remains the most comprehensive treatment of neural networks from an engineering perspective. This is ideal for professional engineers and research scientists.",
-"url":"https://drive.google.com/file/d/1VbrlQBzltkoe-F9ew7z4DQZw0XqQHzgx/view?usp=sharing"
+"name": "Moby-Dick",
+"author": "Herman Melville",
+"rating": "3.5",
+"price": "$ 349",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
 },
 {
 "id": "110",
-"name": "Programming Computer Vision with Python",
-"author": " Jan Erik Solem ",
-"rating": "8",
-"price": "Library 4,shelf 6,no 2",
-"image": "https://images-na.ssl-images-amazon.com/images/I/51FOcrxnzbL._SX379_BO1,204,203,200_.jpg",
-"description": "Programming Computer Vision with Python explains computer vision in broad terms that won’t bog you down in theory. You get complete code samples with explanations on how to reproduce and build upon each example, along with exercises to help you apply what you’ve learned. This book is ideal for students, researchers, and enthusiasts with basic programming and standard mathematical skills.",
-"url":"https://drive.google.com/file/d/1dTjgxFcxZROYF-lrsVYoUgbGZWpNmcmV/view?usp=sharing"
-},
+"name": "The Lord of the Rings",
+"author": "J.R.R Tolkien",
+"rating": "4.5",
+"price": "$ 499",
+"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
+"description": "",
+"url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
+}
 ]
 }
