@@ -5,7 +5,7 @@
 "name": "The Everyday Life of an Algorthim",
 "author": "Daniel Neyland",
 "rating": "9.0",
-"price": "$ 299",
+"Location": "Library 4,shelf 2,no 13",
 "image": "https://up4net.com/uploads4/up4net.com162715393624211.jpg",
 "description": "This chapter introduces the recent academic literature onalgorithms and some of the popular concerns that have been expressedabout algorithms in mainstream media",
 "url":"https://drive.google.com/file/d/1LtNvfuDIxpvedYa9Kfvnl9ECZWZOas3i/view?usp=sharing"
@@ -15,7 +15,7 @@
 "name": "Flutter",
 "author": "Eng . Faisal Al aswad",
 "rating": "3.9",
-"price": "$ 399",
+"Location": "Library 5,shelf 6,no 2",
 "image": "https://up4net.com/uploads4/up4net.com16275072598891.jpg",
 "description": "its about flutter , how to build mobile application with modern programming language ",
 "url":"https://drive.google.com/file/d/1dZmvVV5Rkc2YXfUCGv9JYnwDjUq0JNo7/view?usp=sharing.pdf"
@@ -26,7 +26,7 @@
 "author": "Olivier Bonaventure",
 "rating": "8.1",
 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
-"price": "",
+"Location": "Library 1,shelf 7,no 9",
 
 "description": "",
 "url":"https://up4net.com/download320034.html"
@@ -36,7 +36,7 @@
 "name": "Madame Bovary\r\n",
 "author": "Gustave Flaubert",
 "rating": "3.6",
-"price": "$ 249",
+"Location": "Library 6,shelf 6,no 27",
 "image": "up4net.com/uploads4/up4net.com162718664630381.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
@@ -46,7 +46,7 @@
 "name": "War and Peace",
 "author": "Leo Tolstoy",
 "rating": "4.2",
-"price": "$ 249",
+"Location": "Library 4,shelf 5,no 18",
 "image": "https://up4net.com/uploads4/up4net.com162718664630381.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
@@ -66,7 +66,7 @@
 "name": "Middlemarch",
 "author": "George Eliot",
 "rating": "3.9",
-"price": "$ 499",
+"Location": "Library 2,shelf 7,no 8",
 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
@@ -76,7 +76,7 @@
 "name": "The Adventures of Huckleberry Finn",
 "author": "Mark Twain",
 "rating": "3.8",
-"price": "$ 199",
+"Location": "Library 8,shelf 3,no 11",
 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
@@ -86,7 +86,7 @@
 "name": "Moby-Dick",
 "author": "Herman Melville",
 "rating": "3.5",
-"price": "$ 349",
+"Location": "Library 4,shelf 1,no 1",
 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
@@ -96,7 +96,7 @@
 "name": "The Lord of the Rings",
 "author": "J.R.R Tolkien",
 "rating": "4.5",
-"price": "$ 499",
+"Location": "Library 3,shelf 1,no 4",
 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
 "description": "",
 "url":"https://www.tutorialspoint.com/csharp/csharp_tutorial.pdf"
