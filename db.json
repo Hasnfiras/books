@@ -14,8 +14,8 @@
 "id": "102",
 "name": "Flutter",
 "author": "Eng . Faisal Al aswad",
-"rating": "3.9",
-"price": "$ 399",
+"rating": "7",
+"price": "Library 4,shelf 4,no 7",
 "image": "https://images-na.ssl-images-amazon.com/images/I/51YQZtSgfBL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
 "description": "its about flutter , how to build mobile application with modern programming language ",
 "url":"https://drive.google.com/file/d/1dZmvVV5Rkc2YXfUCGv9JYnwDjUq0JNo7/view?usp=sharing.pdf"
@@ -25,10 +25,10 @@
 "name": "Computer Networking : Principles and Protocols",
 "author": "Olivier Bonaventure",
 "rating": "8.1",
-"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
-"price": "",
+"image": "https://images-na.ssl-images-amazon.com/images/I/515sQGFWquL._SX373_BO1,204,203,200_.jpg",
+"price": "Library 4,shelf 4,no 9",
 
-"description": "",
+"description": "This open textbook aims to fill the gap between the opensource implementations and the opensource network specifications by providing a detailed but pedagogical description of the key principles that guide the operation of the Internet. 1 Preface 2 Introduction 3 The application Layer 4 The transport layer 5 The network layer 6 The datalink layer and the Local",
 "url":"https://up4net.com/download320034.html"
 },
 {
