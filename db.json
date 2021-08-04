@@ -32,25 +32,10 @@
 },
 {
 "id": "104",
-"name": "Discrete Mathematics\r\n",
+"name": "Discrete Mathematics",
 "author": "Oscar Levin",
 "rating": "5.4",
 "price": "Library 4,shelf 7,no 5",
-
-    
-          
-            
-    
-
-          
-          
-            
-    
-
-          
-    
-    @@ -66,7 +66,7 @@
-  
 "image": "https://images-na.ssl-images-amazon.com/images/I/41M+q-1ZlZL._SX348_BO1,204,203,200_.jpg",
 "description": "Four main topics are covered: counting, sequences, logic, and graph theory. Along the way proofs are introduced, including proofs by contradiction, proofs by induction, and combinatorial proofs. The book contains over 470 exercises, including 275 with solutions and over 100 with hints. There are also Investigate! activities throughout the text to support active, inquiry based learning.While there are many fine discrete math textbooks available, this text has the following advantages:It is written to be used in an inquiry rich course.It is written to be used in a course for future math teachers.It is open source, with low cost print editions and free electronic editions.",
 "url":"https://drive.google.com/file/d/17WQeIVmWS3X3XyY6tQpqhAwxLbZEOip2/view?usp=sharing"
@@ -84,35 +69,15 @@
 "image": "https://images-na.ssl-images-amazon.com/images/I/319awEQ5rQL._SX384_BO1,204,203,200_.jpg",
 "description": "This book covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; integer congruences; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics may also be covered, such as recursive definition and structural induction; state machines and invariants; recurrences; generating functions.",
 "url":"https://drive.google.com/file/d/116JJFIVpC3DDwvA2MUkTAMPdy2b0hqdx/view?usp=sharing"
-
-    
-        
-          
-    
-
-        
-    
-    @@ -75,7 +75,7 @@
-  
 },
 {
 "id": "108",
 "name": "C++ from scratch to object programming",
 "author": "Dr Nidhal alkhudairy",
-"rating": "6.5,
+"rating": "6.5",
 "price": "Library 4,shelf 3,no 14",
 "image": "https://www.nourbook.com/publice/covers_cache_webp/4/a/4/c/40e8260f03a4cc8ec193bbd597688a60.png.webp",
 "description": "The book contains a detailed explanation of the C++ language in a simplified manner. It includes twelve chapters starting from teaching programming and moving to entity programming.. The book contains many solved examples that help to understand the material easily.. The book can be an important and easy resource for students. The book is written in a simple and understandable language, free of complexity and in a professional manner.. This book is an addition to the Arabic library, which lacks scientific books written in Arabic, as it was written by a specialist in teaching programming languages",
-
-    
-        
-          
-    
-
-        
-    
-    @@ -100,6 +100,6 @@
-  
 "url":"https://drive.google.com/file/d/116JJFIVpC3DDwvA2MUkTAMPdy2b0hqdx/view?usp=sharing"
 },
 {
